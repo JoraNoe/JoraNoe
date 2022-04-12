@@ -1,8 +1,13 @@
 ### Hi there , I’m [JoreNoe](https://github.com/JoraNoe/)👋
 
+![image](https://user-images.githubusercontent.com/57209261/162937078-beeef1f2-0281-4271-a75a-c081ff5643d7.png)
+
+
+<!--
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/jasonkayzk/jasonkayzk@master/hello-world.gif" width="30%">
 </p>
+-->
 
 <!--
 **JoraNoe/JoraNoe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
