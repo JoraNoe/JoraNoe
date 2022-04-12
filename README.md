@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi there , I’m [JoreNoe](https://github.com/JoraNoe/)👋
+
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/jasonkayzk/jasonkayzk@master/hello-world.gif" width="30%">
+</p>
 
 <!--
 **JoraNoe/JoraNoe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
