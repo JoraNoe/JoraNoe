@@ -44,9 +44,7 @@ MUI..      41 mins        ▍░░░░░░░░░░░░░░░░░
 [![](https://img.shields.io/badge/-Prometheus-003545?style=flat-square&logo=prometheus&logoColor=white)](https://prometheus.io/)
 
 
-<p align="center">
-<a href="https://chat.getloli.com/room/@JoreNoe?title=JoreNoe-chatroom"><img src="https://chat.getloli.com/room/@JoreNoe/svg?width=750&height=340&limit=20&theme=light&title=JasonayZK@github:%20~&fontSize=13"></a>
-</p>
+![](https://activity-graph.herokuapp.com/graph?username=joranoe&theme=redical)
 
 
 <!--
