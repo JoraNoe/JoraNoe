@@ -69,7 +69,7 @@ Redis       41 mins       ▍░░░░░░░░░░░░░░░░░
 
 
 <!-- ![](https://activity-graph.herokuapp.com/graph?username=joranoe&theme=redical) -->
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=JORANOE&bg_color=ffffff&color=697477&line=00c795&point=8c78c4&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=JORANOE&bg_color=000000&color=697477&line=00c795&point=8c78c4&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 
