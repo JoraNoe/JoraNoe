@@ -39,7 +39,7 @@ Redis       41 mins       ▍░░░░░░░░░░░░░░░░░
 
 [![](https://img.shields.io/badge/-.NetCore-purple?style=flat-square&logo=.NET&logoColor=ffffff)](https://docs.microsoft.com/zh-cn/dotnet/csharp/tour-of-csharp/)
 [![](https://img.shields.io/badge/-Csharp-purple?style=flat-square&logo=Csharp&logoColor=ffffff)](https://docs.microsoft.com/zh-cn/dotnet/csharp/tour-of-csharp/)
-[![](https://img.shields.io/badge/-Angular-red?style=flat-square&logo=Angular&logoColor=ffffff)]
+[![](https://img.shields.io/badge/-Angular-red?style=flat-square&logo=Angular&logoColor=ffffff)](https://angular.io/)
 [![](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=ffffff)](https://www.docker.com/)
 [![](https://img.shields.io/badge/-MySQL-003545?style=flat-square&logo=mysql&logoColor=white)](https://www.mysql.com/)
 [![](https://img.shields.io/badge/-NPM-cb3837?style=flat-square&logo=npm&logoColor=white)](https://npmjs.com/)
