@@ -1,6 +1,6 @@
 ### Hi there , I’m [JoreNoe](https://github.com/JoraNoe/) , Welcome to my warehouse , Leave a star 👋
 
-<table width="900px">
+<table width="900px" border="1px">
 <tr>
 <td valign="top" width="50%">
 
