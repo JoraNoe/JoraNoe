@@ -39,7 +39,7 @@ Redis       41 mins       ▍░░░░░░░░░░░░░░░░░
 
 
 
-[![](https://img.shields.io/badge/-Spring-6DB33F?style=flat-square&logo=spring&logoColor=white)](https://spring.io/projects/spring-framework/)
+[![](https://img.shields.io/badge/-C#-6DB33F?style=flat-square&logo=spring&logoColor=white)](https://docs.microsoft.com/zh-CN/dotnet/csharp/)
 [![](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=ffffff)](https://www.docker.com/)
 [![](https://img.shields.io/badge/-MySQL-003545?style=flat-square&logo=mysql&logoColor=white)](https://www.mysql.com/)
 [![](https://img.shields.io/badge/-NPM-cb3837?style=flat-square&logo=npm&logoColor=white)](https://npmjs.com/)
@@ -51,7 +51,6 @@ Redis       41 mins       ▍░░░░░░░░░░░░░░░░░
 [![](https://img.shields.io/badge/-Kubenetes-2496ED?style=flat-square&logo=kubernetes&logoColor=ffffff)](https://kubernetes.io/)
 [![](https://img.shields.io/badge/-ElasticSearch-005571?style=flat-square&logo=elasticsearch&logoColor=white)](https://www.elastic.co/)
 [![](https://img.shields.io/badge/-Redis-dc382d?style=flat-square&logo=redis&logoColor=white)](https://redis.io/)
-[![](https://img.shields.io/badge/NetCore-C%23-brightgreen)]
 [![](https://img.shields.io/badge/-Gradle-f05032?style=flat-square&logo=gradle&logoColor=white)](https://gradle.org/)
 [![](https://img.shields.io/badge/-RabbitMQ-269539?style=flat-square&logo=rabbitmq&logoColor=white)](https://www.rabbitmq.com/)
 [![](https://img.shields.io/badge/-Yarn-2496ED?style=flat-square&logo=yarn&logoColor=white)](https://yarnpkg.com/)
