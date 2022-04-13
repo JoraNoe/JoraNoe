@@ -51,7 +51,7 @@ Redis       41 mins       ▍░░░░░░░░░░░░░░░░░
 [![](https://img.shields.io/badge/-Kubenetes-2496ED?style=flat-square&logo=kubernetes&logoColor=ffffff)](https://kubernetes.io/)
 [![](https://img.shields.io/badge/-ElasticSearch-005571?style=flat-square&logo=elasticsearch&logoColor=white)](https://www.elastic.co/)
 [![](https://img.shields.io/badge/-Redis-dc382d?style=flat-square&logo=redis&logoColor=white)](https://redis.io/)
-[![](https://img.shields.io/badge/-C#-007396?style=flat-square&logo=flutter&logoColor=white)](https://flutter.dev/)
+[![](https://img.shields.io/badge/C#%20NetCore-pink)
 [![](https://img.shields.io/badge/-Gradle-f05032?style=flat-square&logo=gradle&logoColor=white)](https://gradle.org/)
 [![](https://img.shields.io/badge/-RabbitMQ-269539?style=flat-square&logo=rabbitmq&logoColor=white)](https://www.rabbitmq.com/)
 [![](https://img.shields.io/badge/-Yarn-2496ED?style=flat-square&logo=yarn&logoColor=white)](https://yarnpkg.com/)
