@@ -44,7 +44,7 @@ MUI..      41 mins        ▍░░░░░░░░░░░░░░░░░
 [![](https://img.shields.io/badge/-Prometheus-003545?style=flat-square&logo=prometheus&logoColor=white)](https://prometheus.io/)
 
 
-![](https://activity-graph.herokuapp.com/graph?username=jorenoe&theme=redical)
+![](https://activity-graph.herokuapp.com/graph?username=joranoe&theme=redical)
 
 
 <!--
