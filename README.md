@@ -12,7 +12,7 @@
 C#         16 hrs 45 mins █████████▊░░░░░░░░░░░  46.8%
 JS.        13 hrs 59 mins ████████▏░░░░░░░░░░░░  39.1%
 SQL        2 hrs 3 mins   █▏░░░░░░░░░░░░░░░░░░░   5.7%
-Uni-app... 43 mins        ▍░░░░░░░░░░░░░░░░░░░░   2.0%
+DotNetCore 43 mins        ▍░░░░░░░░░░░░░░░░░░░░   2.0%
 Redis       41 mins       ▍░░░░░░░░░░░░░░░░░░░░   1.9%
 ```
 
@@ -42,6 +42,7 @@ Redis       41 mins       ▍░░░░░░░░░░░░░░░░░
 [![](https://img.shields.io/badge/-Angular-red?style=flat-square&logo=Angular&logoColor=ffffff)](https://angular.io/)
 [![](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=ffffff)](https://www.docker.com/)
 [![](https://img.shields.io/badge/-MySQL-003545?style=flat-square&logo=mysql&logoColor=white)](https://www.mysql.com/)
+[![](https://img.shields.io/badge/-Linux-557C94?style=flat-square&logo=Linux&logoColor=ffffff)](https://Linux.io/)
 [![](https://img.shields.io/badge/-NPM-cb3837?style=flat-square&logo=npm&logoColor=white)](https://npmjs.com/)
 [![](https://img.shields.io/badge/-Git-f05032?style=flat-square&logo=git&logoColor=white)](https://git-scm.com/)
 [![](https://img.shields.io/badge/-Vue.js-4fc08d?style=flat-square&logo=vue.js&logoColor=ffffff)](https://vuejs.org/)
