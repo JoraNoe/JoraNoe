@@ -1,16 +1,40 @@
 ### Hi there , I’m [JoreNoe](https://github.com/JoraNoe/)👋
 
+<table width="800px">
+<tr>
+<td valign="top" width="50%">
+
+#### 🏊‍♂️ <a href="https://gist.github.com/JoraNoe/59ead22758ee823e48b558d3cff332f1" target="_blank">Weekly Development Breakdown</a>
+
 <!-- code_time starts -->
 
 ```text
 C#         16 hrs 45 mins █████████▊░░░░░░░░░░░  46.8%
-Js.        13 hrs 59 mins ████████▏░░░░░░░░░░░░  39.1%
+JS.        13 hrs 59 mins ████████▏░░░░░░░░░░░░  39.1%
 SQL        2 hrs 3 mins   █▏░░░░░░░░░░░░░░░░░░░   5.7%
 Uni-app... 43 mins        ▍░░░░░░░░░░░░░░░░░░░░   2.0%
-MUI..      41 mins        ▍░░░░░░░░░░░░░░░░░░░░   1.9%
+Redis       41 mins       ▍░░░░░░░░░░░░░░░░░░░░   1.9%
 ```
 
 <!-- code_time ends -->
+</td>
+
+<td valign="top" width="50%">
+
+#### 🤹‍♀️ <a href="https://JoraNoe.github.io/" target="_blank">Recent Blog</a>
+
+<!-- blog starts -->
+* <a href='https://github.com/JoraNoe/JoreNoe' target='_blank'>NuGet帮助工具包,JoreNoe</a> - 2021-02-27
+  
+| Build                                                     | NuGet                                                        | Downloads                                                    |
+| --------------------------------------------------------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| ![](https://img.shields.io/badge/NetCore-3.1-green.svg) | [![](https://img.shields.io/nuget/v/JoreNoe.svg)](https://www.nuget.org/packages/JoreNoe) | ![](https://img.shields.io/badge/Downloads-2.9K+-green.svg) |
+<!-- blog ends -->
+
+</td>
+</tr>
+
+</table>
 
 
 
