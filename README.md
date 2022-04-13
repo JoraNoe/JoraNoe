@@ -39,7 +39,7 @@ Redis       41 mins       ▍░░░░░░░░░░░░░░░░░
 
 
 
-[![](https://img.shields.io/badge/style-flat--square-green?logo=C#&style=flat-square)]
+[![](https://img.shields.io/badge/-Net-C#--NetCore-green?logo=C#&style=flat-square&logo=docker&logoColor=332B33)]
 [![](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=ffffff)](https://www.docker.com/)
 [![](https://img.shields.io/badge/-MySQL-003545?style=flat-square&logo=mysql&logoColor=white)](https://www.mysql.com/)
 [![](https://img.shields.io/badge/-NPM-cb3837?style=flat-square&logo=npm&logoColor=white)](https://npmjs.com/)
