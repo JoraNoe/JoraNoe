@@ -67,6 +67,8 @@ Redis       41 mins       ▍░░░░░░░░░░░░░░░░░
 [![](https://img.shields.io/badge/-Grafana-f05032?style=flat-square&logo=grafana&logoColor=white)](https://grafana.com/)
 [![](https://img.shields.io/badge/-Prometheus-003545?style=flat-square&logo=prometheus&logoColor=white)](https://prometheus.io/)
 
+[![](https://raw.githubusercontent.com/Xhofe/Xhofe/main/out/github-contribution-grid-snake.svg)](https://github.com/Xhofe)
+
 
 <!-- ![](https://activity-graph.herokuapp.com/graph?username=joranoe&theme=redical) -->
 ![](https://activity-graph.herokuapp.com/graph?username=joranoe&theme=react-dark)
