@@ -30,6 +30,14 @@ Redis       41 mins       ▍░░░░░░░░░░░░░░░░░
 | --------------------------------------------------------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | ![](https://img.shields.io/badge/NetCore-3.1-green.svg) | [![](https://img.shields.io/nuget/v/JoreNoe.svg)](https://www.nuget.org/packages/JoreNoe) | <a href="https://www.nuget.org/packages/JoreNoe/" rel="nofollow noreferrer"><img src="https://img.shields.io/nuget/dt/JoreNoe?label=Downloads" alt="NuGet Downloads"></a>
 <!-- blog ends -->
+  
+  <!-- blog starts -->
+* <a href='https://github.com/JoraNoe/JoreNoe' target='_blank'>NetCore模板,JoreNoeNetAPITemplete</a> - 最新更新于(2023.02.16) Last updated on Apr 16, 2023
+  
+| Build                                                     | NuGet                                                        | Downloads                                                    |
+| --------------------------------------------------------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| ![](https://img.shields.io/badge/NetCore-3.1-green.svg) | [![](https://img.shields.io/nuget/v/JoreNoe.svg)](https://www.nuget.org/packages/JoreNoeNetAPITemplete) | <a href="https://www.nuget.org/packages/JoreNoeNetAPITemplete/" rel="nofollow noreferrer"><img src="https://img.shields.io/nuget/dt/JoreNoeNetAPITemplete?label=Downloads" alt="NuGet Downloads"></a>
+<!-- blog ends -->
 
 </td>
 </tr>
