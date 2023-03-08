@@ -17,6 +17,20 @@ Redis       41 mins       ▍░░░░░░░░░░░░░░░░░
 ```
 
 <!-- code_time ends -->
+  
+  <!-- code_time starts -->
+
+```text
+UniApp         16 hrs 45 mins █████████▊░░░░░░░░░░░  46.8%
+Ts        13 hrs 59 mins ████████▏░░░░░░░░░░░░  39.1%
+Vue        2 hrs 3 mins   █▏░░░░░░░░░░░░░░░░░░░   5.7%
+Docker 43 mins        ▍░░░░░░░░░░░░░░░░░░░░   2.0%
+WebPack       41 mins       ▍░░░░░░░░░░░░░░░░░░░░   1.9%
+```
+
+<!-- code_time ends -->
+  
+  
 </td>
 
 <td valign="top" width="50%">
