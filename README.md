@@ -36,7 +36,7 @@ Redis       41 mins       ▍░░░░░░░░░░░░░░░░░
   
 | Build                                                     | NuGet                                                        | Downloads                                                    |
 | --------------------------------------------------------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| ![](https://img.shields.io/badge/NetCore-3.1-green.svg) | [![](https://img.shields.io/nuget/v/JoreNoe.svg)](https://www.nuget.org/packages/JoreNoeNetAPITemplete) | <a href="https://www.nuget.org/packages/JoreNoeNetAPITemplete/" rel="nofollow noreferrer"><img src="https://img.shields.io/nuget/dt/JoreNoeNetAPITemplete?label=Downloads" alt="NuGet Downloads"></a>
+| ![](https://img.shields.io/badge/NetCore-5.0-green.svg) | [![](https://img.shields.io/nuget/v/JoreNoeNetAPITemplete.svg)](https://www.nuget.org/packages/JoreNoeNetAPITemplete) | <a href="https://www.nuget.org/packages/JoreNoeNetAPITemplete/" rel="nofollow noreferrer"><img src="https://img.shields.io/nuget/dt/JoreNoeNetAPITemplete?label=Downloads" alt="NuGet Downloads"></a>
 <!-- blog ends -->
 
 </td>
