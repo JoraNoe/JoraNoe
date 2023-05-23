@@ -38,7 +38,7 @@ WebPack    41 mins       ▍░░░░░░░░░░░░░░░░░�
 #### 🤹‍♀️ <a href="https://JoraNoe.github.io/" target="_blank">Recent Blog</a>
 
 <!-- blog starts -->
-* <a href='https://github.com/JoraNoe/JoreNoe' target='_blank'>NuGet帮助工具包,JoreNoe</a> - 最新更新于(2022.04.13) Last updated on Apr 13, 2022
+* <a href='https://github.com/JoraNoe/JoreNoe' target='_blank'>快速开发帮助工具包,JoreNoe</a> - 最新更新于(2022.04.13) Last updated on Apr 13, 2022
   
 | Build                                                     | NuGet                                                        | Downloads                                                    |
 | --------------------------------------------------------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
