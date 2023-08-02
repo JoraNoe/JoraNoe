@@ -90,7 +90,9 @@ WebPack    41 mins       ▍░░░░░░░░░░░░░░░░░�
 [![](https://img.shields.io/badge/-Prometheus-003545?style=flat-square&logo=prometheus&logoColor=white)](https://prometheus.io/)
 
 <!--贪吃-->
-[![](https://raw.githubusercontent.com/Xhofe/Xhofe/main/out/github-contribution-grid-snake.svg)](https://github.com/JoraNoe)
+ [![](https://raw.githubusercontent.com/Xhofe/Xhofe/main/out/github-snake-dark.svg)](https://github.com/JoraNoe)
+
+ <!--[![](https://raw.githubusercontent.com/Xhofe/Xhofe/main/out/github-contribution-grid-snake.svg)](https://github.com/JoraNoe)--> 
 
 
 <!-- ![](https://activity-graph.herokuapp.com/graph?username=joranoe&theme=redical) -->
