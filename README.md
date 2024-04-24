@@ -42,7 +42,7 @@ WebPack    41 mins       ▍░░░░░░░░░░░░░░░░░�
   
 | Build                                                     | NuGet                                                        | Downloads                                                    |
 | --------------------------------------------------------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| ![](https://img.shields.io/badge/NetCore-3.1-green.svg) | [![](https://img.shields.io/nuget/v/JoreNoe.svg)](https://www.nuget.org/packages/JoreNoe) | <a href="https://www.nuget.org/packages/JoreNoe/" rel="nofollow noreferrer"><img src="https://img.shields.io/nuget/dt/JoreNoe?label=Downloads" alt="NuGet Downloads"></a>
+| ![](https://img.shields.io/badge/NetCore-6.0-purple.svg) | [![](https://img.shields.io/nuget/v/JoreNoe.svg)](https://www.nuget.org/packages/JoreNoe) | <a href="https://www.nuget.org/packages/JoreNoe/" rel="nofollow noreferrer"><img src="https://img.shields.io/nuget/dt/JoreNoe?label=Downloads" alt="NuGet Downloads"></a>
 <!-- blog ends -->
   
   <!-- blog starts -->
