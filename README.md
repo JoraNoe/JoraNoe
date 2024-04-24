@@ -46,11 +46,11 @@ WebPack    41 mins       ▍░░░░░░░░░░░░░░░░░�
 <!-- blog ends -->
   
   <!-- blog starts -->
-* <a href='https://github.com/JoraNoe/JoreNoe' target='_blank'>NetCore模板,JoreNoeNetAPITemplete</a> - 最新更新于(2023.02.16) Last updated on Apr 16, 2023
+* <a href='https://github.com/JoraNoe/JoreNoe' target='_blank'>NetCore模板,JoreNoeAPITemplete</a> - 最新更新于(2023.02.16) Last updated on Apr 16, 2023
   
 | Build                                                     | NuGet                                                        | Downloads                                                    |
 | --------------------------------------------------------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| ![](https://img.shields.io/badge/NetCore-5.0-green.svg) | [![](https://img.shields.io/nuget/v/JoreNoeNetAPITemplete.svg)](https://www.nuget.org/packages/JoreNoeNetAPITemplete) | <a href="https://www.nuget.org/packages/JoreNoeNetAPITemplete/" rel="nofollow noreferrer"><img src="https://img.shields.io/nuget/dt/JoreNoeNetAPITemplete?label=Downloads" alt="NuGet Downloads"></a>
+| ![](https://img.shields.io/badge/NetCore-5.0-green.svg) | [![](https://img.shields.io/nuget/v/JoreNoeAPITemplete.svg)](https://www.nuget.org/packages/JoreNoeAPITemplete) | <a href="https://www.nuget.org/packages/JoreNoeAPITemplete/" rel="nofollow noreferrer"><img src="https://img.shields.io/nuget/dt/JoreNoeAPITemplete?label=Downloads" alt="NuGet Downloads"></a>
 <!-- blog ends -->
 
 </td>
