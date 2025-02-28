@@ -38,7 +38,7 @@ WebPack    41 mins       ▍░░░░░░░░░░░░░░░░░�
 #### 🤹‍♀️ <a href="https://JoraNoe.github.io/" target="_blank">Recent Blog</a>
 
 <!-- blog starts -->
-* <a href='https://github.com/JoraNoe/JoreNoe' target='_blank'>快速开发帮助工具包,JoreNoe</a> - 最新更新于(2022.04.13) Last updated on Apr 13, 2022
+* <a href='https://www.nuget.org/packages/JoreNoe' target='_blank'>JoreNoe Nuget Tools Package</a> - 最新更新于(2022.04.13) Last updated on Apr 13, 2022
   
 | Build                                                     | NuGet                                                        | Downloads                                                    |
 | --------------------------------------------------------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
@@ -89,7 +89,6 @@ WebPack    41 mins       ▍░░░░░░░░░░░░░░░░░�
 [![](https://img.shields.io/badge/-Grafana-f05032?style=flat-square&logo=grafana&logoColor=white)](https://grafana.com/)
 [![](https://img.shields.io/badge/-Prometheus-003545?style=flat-square&logo=prometheus&logoColor=white)](https://prometheus.io/)
 
-📫Concat:<a href='https://jorenoe.github.io'>Jorenoe</a>
 <!--贪吃-->
  <!-- [![](https://raw.githubusercontent.com/Xhofe/Xhofe/main/out/github-snake-dark.svg)](https://github.com/JoraNoe) -->
 
