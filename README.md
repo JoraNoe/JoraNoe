@@ -42,7 +42,7 @@ WebPack    41 mins       ▍░░░░░░░░░░░░░░░░░�
   
 | Build                                                     | NuGet                                                        | Downloads                                                    |
 | --------------------------------------------------------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| ![.NET Version](https://img.shields.io/badge/.NET-6.0-purple?logo=.net) | [![](https://img.shields.io/nuget/v/JoreNoe?logo=nuget&label=jorenoe nuget)](https://www.nuget.org/packages/JoreNoe) | <a href="https://www.nuget.org/packages/JoreNoe/" rel="nofollow noreferrer"><img src="https://img.shields.io/nuget/dt/JoreNoe?logo=nuget&label=jorenoe package Downloads" alt="NuGet Downloads"></a>
+| ![.NET Version](https://img.shields.io/badge/.NET-6.0-purple?logo=.net) | ![](https://img.shields.io/nuget/v/JoreNoe?logo=nuget&label=jorenoe nuget)(https://www.nuget.org/packages/JoreNoe) | <a href="https://www.nuget.org/packages/JoreNoe/" rel="nofollow noreferrer"><img src="https://img.shields.io/nuget/dt/JoreNoe?logo=nuget&label=jorenoe package Downloads" alt="NuGet Downloads"></a>
 <!-- blog ends -->
   
   <!-- blog starts -->
@@ -50,7 +50,7 @@ WebPack    41 mins       ▍░░░░░░░░░░░░░░░░░�
   
 | Build                                                     | NuGet                                                        | Downloads                                                    |
 | --------------------------------------------------------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| ![](https://img.shields.io/badge/NetCore-5.0-green.svg) | [![](https://img.shields.io/nuget/v/JoreNoeAPITemplete.svg)](https://www.nuget.org/packages/JoreNoeAPITemplete) | <a href="https://www.nuget.org/packages/JoreNoeAPITemplete/" rel="nofollow noreferrer"><img src="https://img.shields.io/nuget/dt/JoreNoeAPITemplete?label=Downloads" alt="NuGet Downloads"></a>
+| ![](https://img.shields.io/badge/NetCore-5.0-green.svg) | [![](https://img.shields.io/nuget/v/JoreNoe?logo=nuget&label=jorenoe nuget)](https://www.nuget.org/packages/JoreNoe) | <a href="https://www.nuget.org/packages/JoreNoeAPITemplete/" rel="nofollow noreferrer"><img src="https://img.shields.io/nuget/dt/JoreNoeAPITemplete?label=Downloads" alt="NuGet Downloads"></a>
 <!-- blog ends -->
 
 </td>
